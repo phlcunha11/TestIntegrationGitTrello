@@ -10,7 +10,7 @@ namespace TestIntegrationGitTrello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("Teste");
             Console.ReadLine();
         }
     }
